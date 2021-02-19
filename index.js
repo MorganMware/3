@@ -15,7 +15,7 @@ var map = L.map(map1, {
 });
 //base map
 L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ENC222-0401/2017 Morgan Inema'
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ENC222-0141/2017 Morgan Inema'
 }).addTo(map);
 
 //data
